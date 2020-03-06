@@ -98,8 +98,8 @@ avatar: https://s2.ax1x.com/2019/09/19/nLtSiD.png
 # 关闭默认滚动条
 scrollbar: true
 
-# 网站的关键词，都好分割，用于SEO优化
-keywords: TriDiamond Obsidian
+# 网站的关键词，逗号分割，用于SEO优化
+keywords: TriDiamond,Obsidian
 
 # 网站口号
 descriptionOne: "Think like an artist, develop like an artisan"
